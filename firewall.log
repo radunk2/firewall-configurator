@@ -1,0 +1,10 @@
+[2025-04-07 17:38:39] User has exited the application!
+[2025-04-07 17:39:27] User has exited the application!
+[2025-04-07 17:39:50] Enable standard ports (22 - SSH, 80 - HTTP)
+[2025-04-07 17:40:04] All connections have been blocked.
+[2025-04-07 17:40:12] Show active rules
+[2025-04-07 17:40:26] Rules have been reset to default.
+[2025-04-07 17:41:56] User added the rule: allow 8080/tcp
+[2025-04-07 17:42:08] User has exited the application!
+[2025-04-07 18:02:48] Enable standard ports (22 - SSH, 80 - HTTP)
+[2025-04-07 18:02:50] User has exited the application!
