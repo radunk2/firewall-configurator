@@ -19,5 +19,5 @@ A simple but powerful Python-based CLI utility to configure the UFW (Uncomplicat
 
 3. Usage
 
-- Make script executable:	chmod +x firewall.py
-- Run it:			./firewall.py
+- Make script executable:	`chmod +x firewall.py`
+- Run it:			`./firewall.py`
