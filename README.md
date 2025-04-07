@@ -21,14 +21,3 @@ A simple but powerful Python-based CLI utility to configure the UFW (Uncomplicat
 
 - Make script executable:	chmod +x firewall.py
 - Run it:			./firewall.py
-
-4. Screenshots
-
-- CLI Demo 1
-![Firewall CLI Demo] 1(./firewall_demo1.png)
-
-- CLI Demo 2
-![Firewall CLI Demo 2](./firewall_demo2.png)
-
-- Logged Actions
-![Firewall Logs](./firewall_logs.png)
